@@ -1,0 +1,6 @@
+# Kings Park Structural Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kingsparkstructural.com/sitemap-index.xml

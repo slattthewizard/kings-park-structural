@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Kings Park Structural Co | Structural Engineer Referrals in Perth",
+  "metaDescription": "Kings Park Structural Co is paid advertising, not an engineering firm. We pass Perth owners to an independent structural engineer who quotes them directly.",
+  "h1": "About Kings Park Structural Co: What We Are, and What We're Not",
+  "heroSub": "We're a referral service, not an engineering firm. This page explains who actually does the work, how a careful engineer approaches a crack or a beam, and what you can check before you pay anyone.",
+  "storyHtml": "<p>Kings Park Structural Co is advertising. We pass your enquiry to the independent structural engineering firm that advertises on this site, and that firm pays us for it. The engineer who quotes your job contracts with you directly. This site employs no engineers, designs nothing and certifies nothing, and you should know that before you ring.</p><p>What the site can do is help you work out the question before you spend money on the answer. Plenty of Perth jobs don't need an engineer at all. Under Schedule 4 of the Building Regulations 2012, a freestanding shed of no more than 10 m2 and 2.4 m high, outside wind regions C and D, is exempt from a building permit, and so is an unroofed pergola of up to 20 m2 on the same height and wind limits (check the full conditions with your council). A roofed patio isn't a pergola under that rule, and taking out a wall that <a href=\"/wall-removal-engineering/\">supports another element</a>, adding floor area or touching the footings all take you outside the exemption.</p><p>When an engineer is needed, the order of work matters. A crack gets diagnosed before anyone talks about a fix: its width, its pattern, where it sits, and what's nearby, such as a leaking pipe, a downpipe that isn't connected to stormwater, an overwatered garden bed or a big tree. CSIRO warns that the symptoms \"do not simply reflect the original cause\", which is why a proper <a href=\"/structural-inspections/\">structural inspection</a> looks past the crack itself. For a wall, the engineer traces the load path first: what sits on the wall and where that weight has to go once it's gone.</p><p>Some of the quality control is in your hands. A pre-purchase building inspection under AS 4349.1 is not an engineer's report, so ask which one you're being quoted for. Registration of structural building engineers in WA began on 1 July 2024, and from 1 July 2027 structural engineering must be done by a registered building engineer. You can look up any engineer on the DEMIRS Building Engineer Register, and if you'd like to talk your job through first, call (08) 5550 6237.</p>",
+  "values": [
+    {
+      "title": "Upfront about the money",
+      "desc": "This site is paid for by one engineering firm. We say that plainly, because you're entitled to know who you're being passed to and why."
+    },
+    {
+      "title": "Is an engineer needed at all?",
+      "desc": "Some sheds and pergolas are exempt from a building permit. Wall removal, extensions and footing work are not. Knowing which side your job falls on saves you paying for paperwork nobody asked for."
+    },
+    {
+      "title": "Diagnosis before remedy",
+      "desc": "CSIRO grades crack damage from category 0 (under 0.1 mm) to category 4 (15 to 25 mm). Width is only part of it. Pattern, location, doors that stick and whether the crack is growing all go into an engineer's view."
+    },
+    {
+      "title": "No made-up numbers",
+      "desc": "Most Perth engineering firms don't publish fees, so we don't invent a typical price. The engineer quotes each job after seeing photos, plans or the site, and the government charges we do show come straight from the regulations."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Kings Park Structural Co an engineering firm?",
+      "a": "No. It's an advertising and referral service paid for by an independent structural engineering firm. That firm quotes you and contracts with you directly, and it's the engineer, not this site, who assesses, designs and signs anything. You can check that engineer on the DEMIRS Building Engineer Register, and from 1 July 2027 structural engineering must be done by a registered building engineer."
+    },
+    {
+      "q": "How do I know if I need a structural engineer?",
+      "a": "Start with what the work touches. Removing or altering a wall that supports another element, adding floor area or height, and underpinning or replacing footings all fall outside the permit exemptions, and your builder or building surveyor will usually ask for engineering. Small freestanding sheds and unroofed pergolas can be exempt. If you're unsure, send photos and plans and ask before you commit to anything."
+    },
+    {
+      "q": "What will the engineering cost?",
+      "a": "Engineers quote each job, and the price depends on the house, the structure and what the council needs. The government side is set by regulation: a certified building permit for a house, patio or shed is 0.19% of the estimated value of work (counted including GST), with a minimum of $121.00. The cost guide on this site lists the other permit fees and state levies."
+    }
+  ]
+}
