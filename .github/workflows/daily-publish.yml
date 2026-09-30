@@ -2,7 +2,7 @@ name: Daily Blog Publish
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # daily 3 PM UTC; PUBLISH_MIN_HOURS below makes it one post every 48 h
+    - cron: '0 15 * * *'  # daily 3 PM UTC; one post per run (PUBLISH_MIN_HOURS 0)
   workflow_dispatch:  # manual runs skip the gate and publish the next draft now
 
 jobs:
