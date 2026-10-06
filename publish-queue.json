@@ -71,7 +71,8 @@
   },
   {
     "draft": "drafts/engineering-drawings-explained-2026-09-30.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-06T19:54:02.892127Z"
   },
   {
     "draft": "drafts/footing-design-for-extensions-2026-09-30.md",
